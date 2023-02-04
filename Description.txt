@@ -1,0 +1,26 @@
+- In Alien Invasion, the player controls a ship that appears at 
+  the bottom center of the screen. 
+- The player can move the ship right and left using the arrow keys 
+  and shoot bullets using the spacebar. 
+- When the game begins, a fleet of aliens fills the sky and moves across 
+  and down the screen. The player shoots and destroys the aliens. 
+- If the player shoots all the aliens, a new fleet appears 
+  that moves faster than the previous fleet. 
+- If any alien hits the player’s ship or reaches the bottom of the screen, 
+  the player loses a ship. If the player loses three ships, the game ends.
+
+step 1: Creating a Pygame Window
+step 2: Creating a Settings Class
+step 3: Adding the Ship Image
+step 4: creating the ship class
+step 5: Creating the Ship Class
+step 6: Draw the ship on the screen
+step 7: make a different module to handle keyboard press and mouse events and update screen
+step 8: if right key is pressed then move ship to right and vice versa for left direction.
+step 9: adjust ship speed
+step 10: Limiting the Ship’s Range
+step 11: create a bullet setting
+step 12: create a bullet class
+step 13: Storing Bullets in a Group
+step 14: firing the bullets
+step 15: Deleting Old Bullets
