@@ -39,3 +39,4 @@ def run_game():
 
 # initialize the game and start the main loop.
 run_game()
+print("Starting game")
